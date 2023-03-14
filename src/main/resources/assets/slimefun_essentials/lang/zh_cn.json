@@ -49,11 +49,11 @@
   "text.autoconfig.slimefun_essentials.option.wilderNetherEnabled": "WilderNether Compatibility Enabled",
 
   "emi.category.slimefun" : "%s",
-  "slimefun_essentials.recipe.time": "%s Seconds (%s Ticks)",
-  "slimefun_essentials.recipe.energy.use": "%sJ Used",
-  "slimefun_essentials.recipe.energy.generate": "%sJ Generated",
-  "slimefun_essentials.recipe.label.day": "This block must be exposed to the Sun to process this Recipe!",
-  "slimefun_essentials.recipe.label.night": "This block must be exposed to the Moon to process this Recipe!",
+  "slimefun_essentials.recipe.time": "%s 秒 (%s 刻)",
+  "slimefun_essentials.recipe.energy.use": "使用 %sJ",
+  "slimefun_essentials.recipe.energy.generate": "生成 %sJ",
+  "slimefun_essentials.recipe.label.day": "这个方块必须在阳光下才能合成这个物品！",
+  "slimefun_essentials.recipe.label.night": "这个方块必须在月光下才能合成这个物品！",
 
   "itemGroup.slimefun_essentials.weapons": "武器",
   "itemGroup.slimefun_essentials.items": "有用的物品",
